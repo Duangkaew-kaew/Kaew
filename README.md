@@ -1,6 +1,6 @@
 # Kaew
 
 ```
-  gcc main.cpp -o kaew
-  ./kaew
+  g++ main.cpp -o banksoft
+  ./banksoft
 ```
